@@ -1,0 +1,23 @@
+body {
+	background-color: #9AD5CA;
+}
+h1, p, ul {
+	text-align: center;
+}
+p {
+	font-size: 25px;
+	text-indent: 50px;
+}
+
+#taco {
+	border-style: solid;
+	border-width: thick;
+	text-align: center;
+	width: 1000px;
+	height: 500px;
+}
+img {
+	border-style: solid;
+	border-width: thick;
+	text-align: center;
+}
