@@ -1,12 +1,13 @@
 body {
-	background-color: #9AD5CA;
+	background-color: #243119;
 }
-h1, p, ul {
+h1, h2, p, ol,ul {
 	text-align: center;
 }
-p {
+p{
 	font-size: 25px;
 	text-indent: 50px;
+	color: #C9F2C7;
 }
 
 #taco {
@@ -20,4 +21,21 @@ img {
 	border-style: solid;
 	border-width: thick;
 	text-align: center;
+}
+h1{
+	color: #ACECA1;
+}
+ol{
+	color: #629460;
+	font-size: 25px;
+	text-indent: 50px;
+}
+h2{
+	color: #96BE8C;
+}
+#coverPage{
+	background:#BBD3B5;
+}
+#cookieBack, #milkBack, #tacoBack,#sushiBack {
+	background:#BBD3B5;
 }
