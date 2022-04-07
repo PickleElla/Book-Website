@@ -34,8 +34,20 @@ h2{
 	color: #96BE8C;
 }
 #coverPage{
-	background:#BBD3B5;
+	background:#91B693;
 }
-#cookieBack, #milkBack, #tacoBack,#sushiBack {
-	background:#BBD3B5;
+#cookieBack{
+	background:#91B693;
+	height: 100px;
+	width: 100%;
+	padding: 5px;
+}
+#milkBack, #tacoBack, #sushiBack {
+	background:#91B693;
+	height: 100px;
+	width: 100%;
+	padding: 5px;
+}
+h1{
+	font-size: 65px;
 }
